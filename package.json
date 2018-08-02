@@ -1,0 +1,19 @@
+{
+  "name": "git-init-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git-init"
+  ],
+  "license": "ISC",
+  "force-install": false,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "David Kim"
+}
